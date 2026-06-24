@@ -1,5 +1,7 @@
 # Tiny Temple Editor
 
+![Tiny Temple Editor artwork](assets/tiny-temple-editor.png)
+
 Tiny Temple Editor is a small Windows terminal text editor with a bright, high-contrast style inspired by the spirit of TempleOS.
 
 Made as a respectful tribute to Terry A. Davis and his singular, imaginative work on TempleOS. This is not affiliated with TempleOS.
