@@ -1,0 +1,3 @@
+*.hc linguist-language=HolyC
+*.c linguist-language=HolyC
+*.h linguist-language=HolyC
