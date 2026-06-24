@@ -1,0 +1,3 @@
+Tiny Temple Editor sample text.
+
+Try searching for "Temple", then make a change and save it.
